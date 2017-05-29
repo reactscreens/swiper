@@ -2,7 +2,13 @@
 
 This is one of our open source screens from [React Screens](https://gumroad.com/l/prereactscreens). If you like the work we do, consider subscribing :)
 
-Read [the blog post]() on how this was made if you need any help.
+Read [the blog post](https://zach.codes/building-a-deck-swiper-in-react-native) on how this was made if you need any help.
+
+## Preview
+
+Scan the QR code with [Expo](https://expo.io), or [click here](https://exp.host/@zackify/swiper) if on your device to play around with a demo.
+
+![QR code](http://api.qrserver.com/v1/create-qr-code/?color=000000&bgcolor=FFFFFF&data=https%3A%2F%2Fexp.host%2F%40zackify%2Fswiper&qzone=1&margin=0&size=400x400&ecc=L)
 
 ## Install
 
