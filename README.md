@@ -4,6 +4,12 @@ This is one of our open source screens from [React Screens](https://gumroad.com/
 
 Read [the blog post]() on how this was made if you need any help.
 
+## Install
+
+```
+npm install @reactscreens/swiper --save
+```
+
 ### Swiper
 
 ```js
