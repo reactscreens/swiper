@@ -47,4 +47,8 @@ export default () => (
 )
 ```
 
-More information coming soon!
+### Performance
+
+Currently all children are rendered initially, so don't try rendering a huge list of cards at a time.
+
+More information coming soon! Yes, we need tests and more performance improvements :)
